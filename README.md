@@ -1,31 +1,12 @@
 # Problem Statement 
-This our Project titled "Mobile Price & Battery Life Prediction" in which we will be able to predict the Price of any Mobile phone and life of its battery from different parameters like Battery Power, Number of Sim slots, RAM, etc. We will use different Regression models to accomplish our task.
+This is our Project titled "Mobile Price & Battery Life Prediction" in which we will be able to predict the Price of any Mobile phone and life of its battery from different parameters like Battery Power, Number of Sim slots, RAM, etc. We will use different Regression models to accomplish our task.
 ## Dataset
 
-The dataset used is the [Name of the Dataset](Download link) from (source of download e.g Kaggle). If the task is a classification task, then you must specify the number of classes and give a 1 line description of each class as follows(example of Iris Dataset). 
+The dataset which we have used is "Mobile Price Classification" from Kaggle. Link-> https://www.kaggle.com/iabhishekofficial/mobile-price-classification . This is a Regression task in which our target variables will be: - 
 
-The 3 class labels are:
-<br>
+a). Battery Life
 
-**1. Iris Setosa:** Given iris flower belongs to the Setosa species
-<br>
-**2. Iris Virginica:** Given iris flower belongs to the Virginica species
-<br>
-**3. Iris Versicolor:** Given iris flower belongs to the Versicolor species
-
-If the task is a regression task, then explain the target variable and give brief statistics.(e.g. Housing Prices)
-
-**Target Variable: SalePrice**
-<br>
-<br>
-Sale Price refers to the selling price of the house.
-<br>
-**Mean Selling Price:** 121,000$
-<br>
-**Max Selling Price:** 1,000,000$
-<br>
-**Min Selling Price:** 45,000$
-
+b). Mobile Price 
 
 ## Model(s) Used
 
