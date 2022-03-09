@@ -4,20 +4,20 @@ This is our Project titled "Mobile Price & Battery Life Prediction" in which we 
 
 The dataset which we have used is "Mobile Price Classification" from Kaggle. Link-> https://www.kaggle.com/iabhishekofficial/mobile-price-classification . There is two variable to be predicted seperately. 
 
-1) Battery Power which will be a regression task.
-2) Mobile Price Range which will be a classification task.
+1) Battery Power which will be a regression task.<br>
+2) Mobile Price Range which will be a classification task.<br>
 
 <ins>Battery Power</ins>:
-Mean Battery Power: 1238.03 mAh
-Max Battery Power: 1998 mAh
-Min Battery Power: 501 mAh
+Mean Battery Power: 1238.03 mAh<br>
+Max Battery Power: 1998 mAh<br>
+Min Battery Power: 501 mAh<br>
 
-<ins>Mobile Price Range</ins>:
-There are 4 class labels:
-1. Low Cost(0)
-2. Medium Cost(1)
-3. High Cost(2)
-4. Very High Cost(3)
+<ins>Mobile Price Range</ins>:<br>
+There are 4 class labels:<br>
+1. Low Cost(0)<br>
+2. Medium Cost(1)<br>
+3. High Cost(2)<br>
+4. Very High Cost(3)<br>
 
 ## Model(s) Used
 
