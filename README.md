@@ -7,7 +7,7 @@ The dataset which we have used is "Mobile Price Classification" from Kaggle. Lin
 1) Battery Power which will be a regression task.<br>
 2) Mobile Price Range which will be a classification task.<br>
 
-<ins>Battery Power</ins>:
+<ins>Battery Power</ins>:<br>
 Mean Battery Power: 1238.03 mAh<br>
 Max Battery Power: 1998 mAh<br>
 Min Battery Power: 501 mAh<br>
