@@ -1,5 +1,5 @@
 # Problem Statement 
-This should be a brief description of the domain of your dataset (e.g. if it is the Titanic Dataset then write about the ship, the incident that happened, what you're trying to do with the data).
+This our Project titled "Mobile Price & Battery Life Prediction" in which we will be able to predict the Price of any Mobile phone and life of its battery from different parameters like Battery Power, Number of Sim slots, RAM, etc. We will use different Regression models to accomplish our task.
 ## Dataset
 
 The dataset used is the [Name of the Dataset](Download link) from (source of download e.g Kaggle). If the task is a classification task, then you must specify the number of classes and give a 1 line description of each class as follows(example of Iris Dataset). 
