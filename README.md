@@ -17,7 +17,7 @@ There are 4 class labels:<br>
 1. Low Cost(0)<br>
 2. Medium Cost(1)<br>
 3. High Cost(2)<br>
-4. Very High Cost(3)<br>
+4. Very High Cost(3)<br>    
 
 ## Model(s) Used
 
