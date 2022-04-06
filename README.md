@@ -20,6 +20,7 @@ There are 4 class labels:<br>
 4. Very High Cost(3)<br>    
 
 ## Model(s) Used
+We have used the SVM (Support Vector Machine) which is a supervised ML algorithm. 
 
 ## Future Work
 
